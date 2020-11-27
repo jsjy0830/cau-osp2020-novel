@@ -293,7 +293,7 @@
 ```
 
 <!-- 주인을 놀래키기 위해 숨은 톰과 제리의 모습 -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74286653/100458520-49587c80-3107-11eb-8b6b-07c74000601b.png" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74286653/100459313-a30d7680-3108-11eb-9147-17c503d5becb.png" width="60%" height="60%">
 
 그렇게 톰은 세면대 아래로, 제리는 천장으로 올라가 각자 주인을 놀라게 할 준비를 했다.
 
